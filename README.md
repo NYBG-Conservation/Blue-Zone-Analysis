@@ -64,7 +64,7 @@ python scripts/merge_csv.py
 ## Authors
 
 - **Lucinda Royte**  - New York Botanical Garden
-  - Email: lroyte@nybg.org
+  - Email: lucindaroyte@gmail.com
   
 - **Eric W. Sanderson** -  New York Botanical Garden
 
