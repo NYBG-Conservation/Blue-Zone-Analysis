@@ -79,7 +79,7 @@ Historical ecology datasets from the Welikia Project require a data sharing agre
 
 ## Questions or Issues?
 
-- Contact: lroyte@nybg.org or urbanconservation@nybg.org
+- Contact: lucindaroyte@gmail.com, or urbanconservation@nybg.org
 
 ## Related Resources
 
