@@ -85,6 +85,7 @@ Historical ecology datasets from the Welikia Project require a data sharing agre
 
 - **Welikia Project**: https://welikia.org/
 - **Historical Maps**: https://layersofthepast.org/
+- **Urban Conservation**: https://urbanconservation.nybg.org/
 
 # DATA DICTIONARY
 
